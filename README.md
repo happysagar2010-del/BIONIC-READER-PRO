@@ -1212,7 +1212,22 @@
                     </button>
                 </div>
             </section>
-
+                     <h2>TRY MORE TOOLS </h2><div style="text-align: center; margin: 20px;">
+  <a href="https://happysagar2010-del.github.io/" target="_blank" style="
+    display: inline-block;
+    padding: 20px 40px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    font-family: Arial, sans-serif;
+  ">
+    Try text to Handwritting Pro 
+  </a></div>
             <!-- Features Section -->
             <section id="features" class="features-section">
                 <h2 class="section-title">Why Bionic Reading Works</h2>
@@ -1265,11 +1280,12 @@
                     <div class="feature-card">
                         <div class="feature-icon">📱</div>
                         <h3 class="feature-title">Multi-Platform</h3>
-                        <p class="feature-description">
+ <p class="feature-description">
                             Use our converter on any device – perfect for e-books, articles, documents, 
                             and any digital text you need to read.
                         </p>
-                    </div>
+
+</div>
                 </div>
             </section>
 
